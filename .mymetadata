@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="heima6servlet"
+  id="myeclipse.1315531274296"
+  context-root="/heima6servlet"
+  j2ee-spec="5.0"
+  archive="heima6servlet.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
